@@ -17,3 +17,7 @@ message.guild.members.filter(m => m.presence.status !== "online").size
 message.delete(); 
 }
 });
+
+
+
+client.login("NzU2OTMwNjY1MjQ0NTI0NTQ2.X2ZAnQ.juix4B4JRSosO2BGESJ3JYueBJQ");
