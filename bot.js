@@ -1,3 +1,5 @@
+const robot = require("discord.js")
+const hama = new robot.client()
 
 client.on("message", message => {
 if (message.content.startsWith(prefix + "send")) {
